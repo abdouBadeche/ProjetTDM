@@ -1,0 +1,2 @@
+rootProject.name = "Quoran"
+include ':app'
